@@ -1,4 +1,5 @@
 aws_region        = "eu-central-1"
+# Don't store creds in GitHub !!!
 # aws_access_key    = "AKIAXT3TN63WZILU2DEX"
 # aws_secret_key    = "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"
 
